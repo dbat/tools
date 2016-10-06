@@ -1,6 +1,8 @@
 # tools
 compiled binaries only, no source code (mostly under replenishment)
 
+get more information by typing -? as argument on respective programs
+
 # compare
 simple file compare (no output at all) return code in errorlevel
 

@@ -12,4 +12,4 @@ Modify date AND/OR time of files AND/OR directories or symlink, recursively (win
 with relaxed, flexible -t TIMESTAMP and -d DATE/TIME format (US/ISO/EU)
 
 # wakeup
-Wakeup computers on LAN (source released)
+Wakeup computers on LAN (source released https://github.com/dbat/wakeup)

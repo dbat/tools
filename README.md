@@ -8,8 +8,11 @@ simple file compare (no output at all) return code in errorlevel
 
 # toucher
 Modify date AND/OR time of files AND/OR directories or symlink, recursively (windows only)
-
 with relaxed, flexible -t TIMESTAMP and -d DATE/TIME format (US/ISO/EU)
 
+(Source released: https://github.com/dbat/toucher)
+
 # wakeup
-Wakeup computers on LAN (source released https://github.com/dbat/wakeup)
+Wakeup computers on LAN
+
+(Source released: https://github.com/dbat/wakeup)

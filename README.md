@@ -21,3 +21,8 @@ Wakeup computers on LAN
 Timestamp to date converter
 
   (Source released: https://github.com/dbat/epoch)
+
+# dash
+Search and replace binary data
+
+  (Source released: https://github.com/dbat/dash)
